@@ -1,0 +1,19 @@
+{
+  "name": "graphql-example",
+  "version": "1.0.0",
+  "description": "Demo app for learning graphql and react with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremyDoss/graphql-example.git"
+  },
+  "author": "Jeremy Doss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeremyDoss/graphql-example/issues"
+  },
+  "homepage": "https://github.com/JeremyDoss/graphql-example#readme"
+}
